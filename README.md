@@ -1,17 +1,17 @@
 >># WiFriends - ReadMe #
 ### Project: CN-Lab PS TU Darmstadt (WiSe-2014/15) ###
 
-####Tutor: #### 
+####Tutor:
 Leonhard Nobach, M.Sc.
 
-#### Members: #### 
+#### Members:
 Hariharan Gandhi (2546148), Harini Gunabalan (2246600)
 
 Decentralized Social Networking App using WiFi Direct
 (An Android App which helps in Socializing with Trusted Friends in
 Proximity using D2D Communication)
 
-### Key features ###
+### Key features:
 
 * Decentralized and without Internet - using Wi-Fi P2p API of Android
 * Exchanges only with Trusted Friends - using NFC and local PINs to securely Add Friends to Trust Zone
@@ -22,4 +22,4 @@ Proximity using D2D Communication)
 *  UI - As Less Interactions as possible - Implementing as foreground Service
 *  UI – Appealing to view profiles
 
-
+This application was developed on Android Studio and the source code can reached here: https://github.com/Hariharan-Gandhi/WifiDirect/tree/master/app/src/main/java/tud/cnlab/wifriends
